@@ -1,6 +1,6 @@
-**Sales Report for AtliQ Hardware:**********
+**Sales Report for AtliQ Hardware:**
 
-1. **Customer Performance Report:**
+**1.Customer Performance Report:**
 
 This report shows how well different types of customers are doing. It looks at things like how much they buy, how much money they bring in, how often they buy, and how happy they are.
 It helps figure out which types of customers are making the most money, which ones need more attention, and which ones might need changes in how we sell to them.
