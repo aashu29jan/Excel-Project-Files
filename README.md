@@ -36,6 +36,9 @@ Analyzing finance data helps us compare ourselves to other companies, keep track
 Why Analyzing Finance Data Is Important:
 
 Looking at finance data helps us know if we're doing well compared to other companies, if we're making money or losing money, and if we're spending money wisely.
+
+
+
 **Role of Reports:**
 
 These reports help us plan our finances better, make sure we're reaching our goals, and make people feel confident about our company's money situation.
